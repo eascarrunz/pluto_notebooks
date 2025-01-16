@@ -14,7 +14,7 @@ using InteractiveUtils
 # ╔═╡ bf6370e0-d373-11ef-1e7b-45131113726b
 begin
 	using Graphs, SimpleWeightedGraphs
-	using GraphMakie, GLMakie
+	using GraphMakie, WGLMakie
 	using Random
 	using Distributions, Statistics
 	using LinearAlgebra
